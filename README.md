@@ -1,6 +1,7 @@
 # Pizza-Sales-Insights
 **Project Overview** 📋
 <br>Explore the delicious world of pizza sales through data analytics. This repository showcases insights derived from SQL and visualized with PowerBI. From revenue trends to customer preferences, this analysis guides data-driven decisions, propelling success to new pinnacles - a journey that stands as a testament to my skills, dedication, and passion for unraveling the stories hidden within data. 
+[Dataset](https://github.com/shoaibmuhammad1994/Pizza-Sales-Insights/blob/main/pizza_sales.csv)
 ## Diving into Data Insights Using SQL 📊
 <br>At the foundation of this endeavor lies a comprehensive analysis powered by SQL queries. With a fine-tooth comb, I've combed through the raw data, unearthing hidden gems of insight. This meticulous SQL analysis helped solidify the bedrock of our key performance indicators (KPIs) and laid the groundwork for the subsequent visual journey.
 ## 🍕📊 An Interactive Power BI Dashboard 📈🍕 
@@ -24,7 +25,7 @@ Throughout the project, I made the most of various SQL and Power BI features.
 - **COUNT & DISTINCT**: Some orders have more than one pizza’s. To find the exact number of orders I used the Count function along with the Distinct function.
 - **CAST & DECIMAL**: To get a readable number I have used the CAST & Decimal functions to get remove the extra digits after the decimal points.
 - **DATETIME**: DATETIME was really helpful in finding daily, and monthly trends. 
-💡 Power BI
+## Power BI
 - **DAX Functions**: Utilizing powerful DAX functions to calculate and analyze data effectively.
 - **Calculated Columns **: Derived columns form the existing data to gain accurate insights like Day Name, Month Name.
 - **Conditional Formatting**: Made use of the conditional formatting to highlight important metrics and trends..
