@@ -25,12 +25,12 @@ Throughout the project, I made the most of various SQL and Power BI features.
 - **COUNT & DISTINCT**: Some orders have more than one pizza’s. To find the exact number of orders I used the Count function along with the Distinct function.
 - **CAST & DECIMAL**: To get a readable number I have used the CAST & Decimal functions to get remove the extra digits after the decimal points.
 - **DATETIME**: DATETIME was really helpful in finding daily, and monthly trends. 
-## Power BI
+## Power BI [Dashboard](https://github.com/shoaibmuhammad1994/Pizza-Sales-Insights/blob/main/Pizza%20Sales%20Dashboard.pbix)
 - **DAX Functions**: Utilizing powerful DAX functions to calculate and analyze data effectively.
 - **Calculated Columns**: Derived columns form the existing data to gain accurate insights like Day Name, Month Name.
 - **Conditional Formatting**: Made use of the conditional formatting to highlight important metrics and trends..
 - **Filtering**: Implementing filters to allow users to explore data based on their preferences. 
-📊**Final Dashboard**: [Link to Dashboard](https://github.com/shoaibmuhammad1994/Pizza-Sales-Insights/blob/main/Pizza%20Sales%20Dashboard.pbix)
+📊**Final Dashboard**:
 ## Dashboard 1:
  ![image](https://github.com/shoaibmuhammad1994/Pizza-Sales-Insights/assets/73048273/1e9de356-a152-496e-878e-59b2b5659150)
 
