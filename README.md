@@ -20,17 +20,17 @@ Beyond visuals, the dashboard's oracle-like essence reveals sales proportions, d
 Empowerment emanates through SQL-infused insights spotlighting the culinary cosmos – top and bottom pizzas. Beyond surface, this compass guides enhancements, rekindling allure and spotlighting success. SQL's foundation refines strategy, steering stakeholders with flair.
 ## SQL & Power BI Functionalities used 💡
 Throughout the project, I made the most of various SQL and Power BI features.
-### SQL
+### SQL [Queries](https://github.com/shoaibmuhammad1994/Pizza-Sales-Insights/blob/main/SQL%20Queries%20used.docx)
 - **SUM**: I have used the SUM function in calculating KPI’s like Total Revenue, Total Quantity Sold and in many more metrics.
 - **COUNT & DISTINCT**: Some orders have more than one pizza’s. To find the exact number of orders I used the Count function along with the Distinct function.
 - **CAST & DECIMAL**: To get a readable number I have used the CAST & Decimal functions to get remove the extra digits after the decimal points.
 - **DATETIME**: DATETIME was really helpful in finding daily, and monthly trends. 
 ## Power BI
 - **DAX Functions**: Utilizing powerful DAX functions to calculate and analyze data effectively.
-- **Calculated Columns **: Derived columns form the existing data to gain accurate insights like Day Name, Month Name.
+- **Calculated Columns**: Derived columns form the existing data to gain accurate insights like Day Name, Month Name.
 - **Conditional Formatting**: Made use of the conditional formatting to highlight important metrics and trends..
 - **Filtering**: Implementing filters to allow users to explore data based on their preferences. 
-📊**Final Dashboard**:
+📊**Final Dashboard**: [Link to Dashboard](https://github.com/shoaibmuhammad1994/Pizza-Sales-Insights/blob/main/Pizza%20Sales%20Dashboard.pbix)
 ## Dashboard 1:
  ![image](https://github.com/shoaibmuhammad1994/Pizza-Sales-Insights/assets/73048273/1e9de356-a152-496e-878e-59b2b5659150)
 
