@@ -1,6 +1,6 @@
 # Pizza-Sales-Insights
 **Project Overview** 📋
-<br>Explore the delicious world of pizza sales through data analytics. This repository showcases insights derived from SQL and visualized with PowerBI. From revenue trends to customer preferences, this analysis guides data-driven decisions, propelling success to new pinnacles - a journey that stands as a testament to my skills, dedication, and passion for unraveling the stories hidden within data. 
+<br>Explore the delicious world of pizza sales through data analytics. This repository showcases insights derived from SQL and visualized with PowerBI. From revenue trends to customer preferences, this analysis guides data-driven decisions, propelling success to new pinnacles - a journey that stands as a testament to my skills, dedication, and passion for unraveling the stories hidden within data. <br>
 [Dataset](https://github.com/shoaibmuhammad1994/Pizza-Sales-Insights/blob/main/pizza_sales.csv)
 ## Diving into Data Insights Using SQL 📊
 At the foundation of this endeavor lies a comprehensive analysis powered by SQL queries. With a fine-tooth comb, I've combed through the raw data, unearthing hidden gems of insight. This meticulous SQL analysis helped solidify the bedrock of our key performance indicators (KPIs) and laid the groundwork for the subsequent visual journey.
