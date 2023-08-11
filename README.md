@@ -30,7 +30,6 @@ Throughout the project, I made the most of various SQL and Power BI features.
 - **Calculated Columns**: Derived columns form the existing data to gain accurate insights like Day Name, Month Name.
 - **Conditional Formatting**: Made use of the conditional formatting to highlight important metrics and trends..
 - **Filtering**: Implementing filters to allow users to explore data based on their preferences. 
-📊**Final Dashboard**:
 ## Dashboard 1:
  ![image](https://github.com/shoaibmuhammad1994/Pizza-Sales-Insights/assets/73048273/1e9de356-a152-496e-878e-59b2b5659150)
 
